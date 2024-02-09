@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hemagunti working as a Frontend Developer at Moodagent.
+- 👋 Hi, I’m @hemagunti and I'm a Frontend Developer.
 - 👀 I’m interested in Web technologies and AI based innovations.
 - 🌱 I've experience in Nextjs, ReactJs, VueJs frameworks.
 - 💞️ I’m looking to collaborate on AI based innovations.
