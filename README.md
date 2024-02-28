@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @hemagunti and I'm a Frontend Developer.
-- 👀 I’m interested in Web technologies and AI based innovations.
+- 👋 Hi, I’m @hemagunti.
+- 👀 I’m interested in Web technologies, Customer support and AI based innovations.
 - 🌱 I've experience in Nextjs, ReactJs, VueJs frameworks.
-- 💞️ I’m looking to collaborate on AI based innovations.
 - 📫 How to reach me : linkedin.com/in/hema-gunti-78b21253
 
 <!---
